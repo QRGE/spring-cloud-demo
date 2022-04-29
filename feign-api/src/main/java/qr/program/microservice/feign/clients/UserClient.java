@@ -1,7 +1,7 @@
-package cn.itcast.feign.clients;
+package qr.program.microservice.feign.clients;
 
 
-import cn.itcast.feign.pojo.User;
+import qr.program.microservice.feign.pojo.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

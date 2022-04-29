@@ -1,4 +1,4 @@
-package cn.itcast.feign.pojo;
+package qr.program.microservice.feign.pojo;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
 package qr.program.microservice.order.pojo;
 
-import cn.itcast.feign.pojo.User;
+import qr.program.microservice.feign.pojo.User;
 import lombok.Data;
 
 @Data

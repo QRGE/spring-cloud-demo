@@ -1,4 +1,4 @@
-package cn.itcast.feign.config;
+package qr.program.microservice.feign.config;
 
 import feign.Logger;
 import org.springframework.context.annotation.Bean;

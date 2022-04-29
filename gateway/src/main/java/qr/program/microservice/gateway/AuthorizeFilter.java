@@ -1,4 +1,4 @@
-package cn.itcast.gateway;
+package qr.program.microservice.gateway;
 
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.cloud.gateway.filter.GlobalFilter;
