@@ -11,6 +11,7 @@ target
 *.class
 
 application.yml
+bootstrap.yml
 
 *.log
 .settings
