@@ -42,9 +42,9 @@
         </dependency>
         <!--引入feign的统一api-->
         <dependency>
-            <groupId>cn.itcast.demo</groupId>
-            <artifactId>feign-api</artifactId>
-            <version>1.0</version>
+            <groupId>qr.program.microservice</groupId>
+            <artifactId>spring-cloud-demo</artifactId>
+            <version>Amiya</version>
         </dependency>
     </dependencies>
     <build>
