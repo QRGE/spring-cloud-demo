@@ -1,7 +1,7 @@
-package cn.itcast.user.service;
+package qr.program.microservice.user.service;
 
-import cn.itcast.user.mapper.UserMapper;
-import cn.itcast.user.pojo.User;
+import qr.program.microservice.user.mapper.UserMapper;
+import qr.program.microservice.user.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

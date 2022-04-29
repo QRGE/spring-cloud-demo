@@ -1,4 +1,4 @@
-package cn.itcast.user;
+package qr.program.microservice.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

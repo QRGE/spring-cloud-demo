@@ -1,6 +1,6 @@
-package cn.itcast.user.mapper;
+package qr.program.microservice.user.mapper;
 
-import cn.itcast.user.pojo.User;
+import qr.program.microservice.user.pojo.User;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 

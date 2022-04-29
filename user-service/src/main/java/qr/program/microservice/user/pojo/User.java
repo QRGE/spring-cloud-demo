@@ -1,4 +1,4 @@
-package cn.itcast.user.pojo;
+package qr.program.microservice.user.pojo;
 
 import lombok.Data;
 

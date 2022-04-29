@@ -1,4 +1,4 @@
-package cn.itcast.order.pojo;
+package qr.program.microservice.order.pojo;
 
 import cn.itcast.feign.pojo.User;
 import lombok.Data;

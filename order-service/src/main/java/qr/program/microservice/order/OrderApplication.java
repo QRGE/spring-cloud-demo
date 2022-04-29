@@ -1,4 +1,4 @@
-package cn.itcast.order;
+package qr.program.microservice.order;
 
 import cn.itcast.feign.clients.UserClient;
 import cn.itcast.feign.config.DefaultFeignConfiguration;

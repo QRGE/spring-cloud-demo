@@ -1,4 +1,4 @@
-package cn.itcast.user.config;
+package qr.program.microservice.user.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

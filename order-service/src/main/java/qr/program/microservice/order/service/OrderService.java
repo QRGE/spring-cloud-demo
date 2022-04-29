@@ -1,9 +1,9 @@
-package cn.itcast.order.service;
+package qr.program.microservice.order.service;
 
 import cn.itcast.feign.clients.UserClient;
 import cn.itcast.feign.pojo.User;
-import cn.itcast.order.mapper.OrderMapper;
-import cn.itcast.order.pojo.Order;
+import qr.program.microservice.order.mapper.OrderMapper;
+import qr.program.microservice.order.pojo.Order;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,8 +1,8 @@
-package cn.itcast.user.web;
+package qr.program.microservice.user.web;
 
-import cn.itcast.user.config.PatternProperties;
-import cn.itcast.user.pojo.User;
-import cn.itcast.user.service.UserService;
+import qr.program.microservice.user.config.PatternProperties;
+import qr.program.microservice.user.pojo.User;
+import qr.program.microservice.user.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
