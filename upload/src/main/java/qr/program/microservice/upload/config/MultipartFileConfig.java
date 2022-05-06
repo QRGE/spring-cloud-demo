@@ -1,4 +1,4 @@
-package qr.program.mircoservice.upload.config;
+package qr.program.microservice.upload.config;
 
 import org.springframework.boot.web.servlet.MultipartConfigFactory;
 import org.springframework.context.annotation.Bean;

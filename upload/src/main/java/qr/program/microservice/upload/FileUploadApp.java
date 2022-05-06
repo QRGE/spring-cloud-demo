@@ -1,4 +1,4 @@
-package qr.program.mircoservice.upload;
+package qr.program.microservice.upload;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
