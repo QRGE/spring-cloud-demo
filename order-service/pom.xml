@@ -43,11 +43,6 @@
         <!--引入feign的统一api-->
         <dependency>
             <groupId>qr.program.microservice</groupId>
-            <artifactId>spring-cloud-demo</artifactId>
-            <version>Amiya</version>
-        </dependency>
-        <dependency>
-            <groupId>qr.program.microservice</groupId>
             <artifactId>feign-api</artifactId>
             <version>Amiya</version>
             <scope>compile</scope>
